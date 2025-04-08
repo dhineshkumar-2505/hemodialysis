@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+numpy
+plotly
+matplotlib
+pillow
+xlrd
+xlsxwriter
+watchdog
+scipy
